@@ -1,4 +1,18 @@
 header {
+    height: 25vh;
+    background-color: #204E7C;
+    overflow: hidden;
     color: white;
-    padding: 50px;
+    padding-top: 60px;
+    padding-right: 30px;
+}
+
+.header-image {
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+}
+
+.main {
+    height: 75vh;
 }
