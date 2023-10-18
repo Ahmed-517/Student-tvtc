@@ -2,6 +2,11 @@ header {
     background-color: #93DDB7;
 }
 
+header nav a {
+    text-decoration: none;
+    color: white;
+}
+
 header .upper {
     display: flex;
     padding: 50px;
@@ -36,7 +41,7 @@ nav {
     padding: 40px;
 }
 
-ul {
+nav ul {
     font-size: 1.5rem;
     list-style: none;
     display: flex;
@@ -84,4 +89,24 @@ main .section p {
 
 main .section i {
     font-size: 3em;
+}
+
+article {
+    background: #EBECED;
+    height: calc(100vh - 251px);
+    padding: 100px;
+}
+
+article h1 {
+    font-size: 3em;
+    padding-bottom: 20px;
+}
+
+article p {
+    font-size: 2em;
+}
+
+article ul {
+    padding: 30px;
+    font-size: 1.8em;
 }
