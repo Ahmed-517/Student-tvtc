@@ -1,5 +1,5 @@
 header {
-    background-color: green;
+    background-color: #93DDB7;
 }
 
 header .upper {
@@ -47,7 +47,7 @@ ul {
 
 main {
     height: calc(100vh - 251px);
-    background: rgb(182, 182, 182);
+    background: #EBECED;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,7 +58,7 @@ main .outer {
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    background-color: rgb(117, 116, 116);
+    background-color: #C7C9C8;
     border-radius: 40px;
     width: 80%;
     height: 50%;
